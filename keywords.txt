@@ -1,0 +1,4 @@
+Encoder	KEYWORD1
+initialize	KEYWORD2
+setPin	KEYWORD2
+readPin	KEYWORD2
